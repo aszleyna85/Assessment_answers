@@ -1,5 +1,5 @@
-# SECTION 1 Question 1 - Find the sum of the digits in the number 100!
+## Contents
 
-# SECTION 2 Question 1 - stub class called Account
+- `factorial_digit_sum.py`: Calculates the sum of digits in 100!
+- `account.py`: A simple bank account class with deposit and withdraw features.
 
-# SECTION 2 Question 2 - new class DevAccount inheriting from the Account class for testing and development purposes
